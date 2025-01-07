@@ -13,6 +13,7 @@ Find me on Linkedin
 [LinkedIn](https://www.linkedin.com/in/rajendra-bist-4020a964/)
 
 
+## Explored areas
 | S.No | Fields        |
 |-----:|---------------|
 |     1| Linux         |
