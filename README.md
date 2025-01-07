@@ -7,7 +7,7 @@
 
 ## About me
 
-Hi, I'm Rajendra Bist. I am a Database and DevOps Engineer.
+**Hi, I'm Rajendra Bist. I am a Database and DevOps Engineer.**
 
 | S.No | Fields        |
 |-----:|---------------|
