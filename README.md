@@ -9,6 +9,10 @@
 
 **Hi, I'm Rajendra Bist. I am a Database and DevOps Engineer.**
 
+
+[LinkedIn](https://www.linkedin.com/in/rajendra-bist-4020a964/)
+
+
 | S.No | Fields        |
 |-----:|---------------|
 |     1| Linux         |
@@ -21,3 +25,5 @@
 |     8| Git           |
 |     9| Terraform     |
 |    10| Monitoring    |
+
+
