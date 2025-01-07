@@ -9,9 +9,15 @@
 
 Hi, I'm Rajendra Bist. I am a Database and DevOps Engineer.
 
-| Rank | Fields        |
+| S.No | Fields        |
 |-----:|---------------|
 |     1| Linux         |
 |     2| Database      |
 |     3| Networking    |
-
+|     4| AWS           |
+|     5| Docker        |
+|     6| Kubernetes    |
+|     7| CICD          |
+|     8| Git           |
+|     9| Terraform     |
+|    10| Monitoring    |
