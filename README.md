@@ -8,3 +8,10 @@
 ## About me
 
 Hi, I'm Rajendra Bist. I am a Database and DevOps Engineer.
+
+| Rank | Fields        |
+|-----:|---------------|
+|     1| Linux         |
+|     2| Database      |
+|     3| Networking    |
+
