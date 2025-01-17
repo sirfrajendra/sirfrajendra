@@ -8,7 +8,7 @@
 ## About me
 
 **Hi, I'm Rajendra Bist. <br>
-I am a Database and DevOps Engineer.** <br>
+I look into DevOps, Databases and Networks.** <br>
 Find me on Linkedin
 [LinkedIn](https://www.linkedin.com/in/rajendra-bist-4020a964/)
 
