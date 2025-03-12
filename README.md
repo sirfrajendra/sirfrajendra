@@ -17,7 +17,7 @@ Find me on Linkedin
 | S.No | Fields        |
 |-----:|---------------|
 |     1| Linux         |
-|     2| Database      |
+|     2| Database  (Postgresql, MySQL)    |
 |     3| Networking    |
 |     4| AWS           |
 |     5| Docker        |
