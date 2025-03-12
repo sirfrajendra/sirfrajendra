@@ -22,9 +22,9 @@ Find me on Linkedin
 |     4| AWS           |
 |     5| Docker        |
 |     6| Kubernetes    |
-|     7| CICD          |
+|     7| CICD (GitHub, Jenkins)          |
 |     8| Git           |
 |     9| Terraform     |
-|    10| Monitoring    |
+|    10| Monitoring (CloudWatch, Grafana)   |
 
 
